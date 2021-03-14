@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ch5xercise</string>
+    <string name="how_do_you_like_your_coffee_served">How do you like your coffee served?</string>
+    <string name="cold">Cold</string>
+    <string name="hot">Hot</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+</resources>
